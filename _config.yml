@@ -1,0 +1,46 @@
+
+title: Salut Pública
+tagline: Salut Pública
+description: Salut pública i nutrició comunitària
+author: Kevin Lin
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://publichealth.cat' # the base hostname & protocol for your site, e.g. http://example.com
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+google_site_verification: 'QclY_1udbdKts462GzFHLmFoaioICIQ16kjZumjRJIg'
+
+# Theme settings
+remote_theme: pmarsceill/just-the-docs@v0.3.3
+color_scheme: light
+search_enabled: false
+heading_anchors: false
+permalink: pretty
+footer_content: ''
+
+# Collections for website data
+collections:
+  staffers:
+  modules:
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      subpath: '/assets/images/'
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
+plugins:
+  - jekyll-seo-tag
