@@ -4,7 +4,7 @@ title: Salut pública
 nav_exclude: true
 seo:
   type: Course
-  name: Salut pública i nutrició comunitària
+  name: Materials, activitats, lectures, i diapos
 ---
 
 # {{ site.tagline }}
@@ -17,7 +17,9 @@ seo:
 {{ staffer }}
 {% endfor %}
 
-Materials pel curs de salut pública i nutrició comunitària, 2020/21
+Materials pel curs de salut pública i nutrició comunitària, 2020/21.
+
+[Call Joe](https://databrew.cc/calljoe)
 
 {% for module in site.modules %}
 {{ module }}
