@@ -2,7 +2,7 @@
 title: Salut Pública
 tagline: Salut Pública
 description: Salut pública i nutrició comunitària
-author: Kevin Lin
+author: Joe Brew
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://publichealth.cat' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

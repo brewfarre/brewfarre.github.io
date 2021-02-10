@@ -1,19 +1,16 @@
 ---
 ---
 
-10 feb
-: [La salut i els seus determinants](https://docs.google.com/presentation/d/e/2PACX-1vSttAva-0o1hTdqCH_ye5RpfoVkNcpQDvBh8efEx1MOYm-FMpRYtVZsGrlDnnn9RC3ymJVN3WpQpVC-/pub?start=false&loop=false&delayms=3000)
-  : [Joe Brew](https://joebrew.net)
+10 febrer
+: [La salut i els seus determinants (1/2)](https://docs.google.com/presentation/d/e/2PACX-1vSttAva-0o1hTdqCH_ye5RpfoVkNcpQDvBh8efEx1MOYm-FMpRYtVZsGrlDnnn9RC3ymJVN3WpQpVC-/pub?start=false&loop=false&delayms=3000)
+  : [Joe Brew](https://orcid.org/0000-0002-4119-0117)
 
+  1. Preparació pel seminari: res
   1. [Diapositives](https://docs.google.com/presentation/d/e/2PACX-1vSttAva-0o1hTdqCH_ye5RpfoVkNcpQDvBh8efEx1MOYm-FMpRYtVZsGrlDnnn9RC3ymJVN3WpQpVC-/pub?start=false&loop=false&delayms=3000)
-  1. [Lectura](https://google.com)
-  1. [Activitat](https://forms.gle/zxXPFsAYU16onVGL9)
+  1. [Lectura](https://www.ncbi.nlm.nih.gov/books/NBK233009/) (a llegir abans del 10 de febrer a les 16:59)
+  1. [Video curt](https://www.youtube.com/watch?v=8PH4JYfF4Ns) (a mirar abans del 10 de febrer a les 16:59)
+  1. [Activitat](https://forms.gle/zxXPFsAYU16onVGL9) (a fer abans del 11 del febrer a les 23:59)
 
-10 feb
-: [Unpacking Equity](https://youtu.be/Pti9hkvU_dw)
-  : [Kamau Bobb](https://www.kamaubobb.com/)
-: 1. [Can Learning Be Fair?](https://youtu.be/MnRZcPeEAv0)
-  1. [The racial politics of STEM education in the USA: interrogations and explorations](https://www.tandfonline.com/doi/full/10.1080/13613324.2019.1592831)
-  1. ['Losing an arm': schooling as a site of black suffering](https://www.tandfonline.com/doi/full/10.1080/13613324.2013.850412)
-  1. [VOICES: Covid-19's Impact on Schools & Implicit Bias](https://youtu.be/w09Dm8qz2so)
-  1. [UW removes standardized testing requirement for incoming students](https://www.washington.edu/news/2020/06/11/uw-removes-standardized-testing-requirement-for-incoming-students-beyond-fall-2021/)
+
+12 febrer
+: La salut i els seus determinants (2/2)

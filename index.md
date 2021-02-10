@@ -17,7 +17,7 @@ seo:
 {{ staffer }}
 {% endfor %}
 
-In this seminar series, we will engage in the emergent dialogue on critical computing theory by analyzing the politics of computing---the consequences, limitations, and unjust impacts of computing in society. What might a future history of computing look like if computing worked in favor of collective human liberation rather than as *Weapons of Math Destruction*?
+Materials pel curs de salut pública i nutrició comunitària, 2020/21
 
 {% for module in site.modules %}
 {{ module }}
