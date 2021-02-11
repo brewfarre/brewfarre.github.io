@@ -13,7 +13,7 @@
     : (2020-02-10)
   1. [Lectura: "Understanding health and its determinants"](https://www.ncbi.nlm.nih.gov/books/NBK233009/)
     : (2021-02-10)
-  1. [Lectura: "The Solid Facts on the Social Determinants of Health"](https://www.euro.who.int/__data/assets/pdf_file/0005/98438/e81384.pdf)
+  1. [Lectura: "The Solid Facts on the Social Determinants of Health"](https://www.euro.who.int/__data/assets/pdf_file/0005/98438/e81384.pdf) / [(en castella)](https://www.mscbs.gob.es/profesionales/saludPublica/prevPromocion/promocion/desigualdadSalud/docs/hechosProbados.pdf)
     : (2021-02-10)
   1. [Activitat](https://forms.gle/zxXPFsAYU16onVGL9)
     : (data límit: 2020-02-11 23:59)
